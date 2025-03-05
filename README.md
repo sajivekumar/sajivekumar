@@ -7,6 +7,17 @@
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
+  
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ... python, kubernetes, CI/CD, Microservices, kafka, postgres
+- 🌱 I’m currently learning ... Kubernetes
+- 💬 Ask me about ...
+- 📫 How to reach me: sajive.sukumar@gmail.com  
+- 😄 Pronouns: he/his
+- ⚡ Fun fact:
+- 📚 Books : ReWork, Crucial Conversations, Atomic Habbits, Sapiens, ...
+
 </details>
 
 [![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajivekumar)](https://github.com/sajivekumar/github-readme-stats)
