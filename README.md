@@ -7,8 +7,10 @@
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
-  
-Here are some ideas to get you started:
+  I need to consolidate my local repositories and push it here... 
+</details>  
+
+
 
 - 🔭 I’m currently working on ... python, kubernetes, CI/CD, Microservices, kafka, postgres
 - 🌱 I’m currently learning ... Kubernetes
@@ -17,8 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/his
 - ⚡ Fun fact:
 - 📚 Books : ReWork, Crucial Conversations, Atomic Habbits, Sapiens, ...
+- ✍️ Follow me on [Medium](https://medium.com/@sajive.kumar79) for more written content.
 
-</details>
 
 [![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajivekumar)](https://github.com/sajivekumar/github-readme-stats)
 
