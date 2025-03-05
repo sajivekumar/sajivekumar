@@ -1,4 +1,4 @@
-[![image](https://github.com/sajivekumar/sajivekumar/blob/main/name.png)](https://github.com/sajivekumar)
+[![image](https://github.com/sajivekumar/sajivekumar/blob/main/Sajive-Kumar.png)](https://github.com/sajivekumar)
 
 ## In progress.....
 
